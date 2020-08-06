@@ -1,4 +1,4 @@
 # myphpapp
 My Test PHP Application
 This is for testing CD
-With Great leader Weekend Warriors
+I am practicing Devops with manjula,priti with Ram sir guidance
